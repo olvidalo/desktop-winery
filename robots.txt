@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://olvidalo.github.io/sitemap.xml
